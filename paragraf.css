@@ -1,0 +1,173 @@
+ol {
+  margin: 40px auto 0;
+  padding: 0;
+  counter-reset: list1;
+  width: 778px; }
+  ol li {
+    list-style: none;
+    margin: 0 0 15px;
+    padding: 0;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500; }
+    ol li:before {
+      counter-increment: list1;
+      content: counter(list1) ". "; }
+    ol li ol.part-1 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-1 li {
+        margin: 0 0 5px; }
+        ol li ol.part-1 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-2 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-2 li {
+        margin: 0 0 5px; }
+        ol li ol.part-2 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-3 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-3 li {
+        margin: 0 0 5px; }
+        ol li ol.part-3 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-4 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-4 li {
+        margin: 0 0 5px; }
+        ol li ol.part-4 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-5 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-5 li {
+        margin: 0 0 5px; }
+        ol li ol.part-5 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-6 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-6 li {
+        margin: 0 0 5px; }
+        ol li ol.part-6 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-7 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-7 li {
+        margin: 0 0 5px; }
+        ol li ol.part-7 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-8 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-8 li {
+        margin: 0 0 5px; }
+        ol li ol.part-8 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-9 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-9 li {
+        margin: 0 0 5px; }
+        ol li ol.part-9 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-10 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-10 li {
+        margin: 0 0 5px; }
+        ol li ol.part-10 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-11 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-11 li {
+        margin: 0 0 5px; }
+        ol li ol.part-11 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-12 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-12 li {
+        margin: 0 0 5px; }
+        ol li ol.part-12 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-13 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-13 li {
+        margin: 0 0 5px; }
+        ol li ol.part-13 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-14 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-14 li {
+        margin: 0 0 5px; }
+        ol li ol.part-14 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-15 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-15 li {
+        margin: 0 0 5px; }
+        ol li ol.part-15 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-16 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-16 li {
+        margin: 0 0 5px; }
+        ol li ol.part-16 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-17 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-17 li {
+        margin: 0 0 5px; }
+        ol li ol.part-17 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li ol.part-18 {
+      counter-reset: list2;
+      margin: 0; }
+      ol li ol.part-18 li {
+        margin: 0 0 5px; }
+        ol li ol.part-18 li:before {
+          counter-increment: list2;
+          content: counter(list1) ". " counter(list2) ". "; }
+    ol li h2 {
+      display: inline-block;
+      font-size: 16px;
+      font-weight: 500;
+      margin: 0 0 5px; }
+    ol li ol li {
+      margin: 0px;
+      text-align: left;
+      font-size: 14px;
+      font-weight: 300; }
+      ol li ol li:before {
+        list-style-type: none; }
+
+/*# sourceMappingURL=paragraf.css.map */
